@@ -1,5 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/slasherer/moris/uni/Sem2/OS/BroCast2/src'
-gcc -D_DEFAULT_SOURCE -Wall -Wextra -pedantic -Wno-unused-parameter receiver.c sender.c sharedMem.c sharedMem.h -o broCast
-make: Leaving directory '/home/slasherer/moris/uni/Sem2/OS/BroCast2/src'
- 
